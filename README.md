@@ -1,4 +1,3 @@
-#create-react-app, #react, #reactjs
 
 color-boxes
 
