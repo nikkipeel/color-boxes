@@ -1,2 +1,5 @@
-# react-apps
-A collection of short projects and exercises using ReactJS
+#create-react-app, #react, #reactjs
+
+color-boxes
+
+Exercise using React JS that generates random color boxes
